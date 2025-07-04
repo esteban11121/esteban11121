@@ -10,21 +10,21 @@
 </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AF736&width=435&lines=Protegiendo+el+ciberespacio+desde+2023+%F0%9F%94%90;22+certificaciones+en+ciberseguridad+%E2%98%A0%EF%B8%8F;CISSP+%7C+CEH+%7C+Security%2B+%7C+Blue+Team;Analizando+threats+y+construyendo+firewalls" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AF736&center=true&width=650&lines=Protegiendo+el+ciberespacio+desde+2023;22+certificaciones+en+ciberseguridad+⚠️;CISSP+%7C+CEH+%7C+Security%2B+%7C+Blue+Team;Analizando+threats+y+construyendo+firewalls" alt="Typing SVG" />
 </div>
 
-###
+<hr>
 
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Matrix Code" />
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJ3aGJtM3l4d3Z4d2VxZ2V6dWJ0ZGN4bG1xZ3d4dWJxY3B2bWZ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hacker Terminal" />
+  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hacker Terminal" />
 </div>
 
-###
+---
 
 <h2 align="center">🔐 Stack de Seguridad 🔐</h2>
 
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/SIEM-FF6C37?style=for-the-badge&logo=elastic&logoColor=white" />
   <img src="https://img.shields.io/badge/QRadar-FC8D62?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/EDR-607D8B?style=for-the-badge&logo=microsoft-defender&logoColor=white" />
@@ -33,9 +33,11 @@
   <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Forensics-009688?style=for-the-badge&logo=file-find&logoColor=white" />
   <img src="https://img.shields.io/badge/OSINT-3A86FF?style=for-the-badge" />
-</div>
+  <img src="https://img.shields.io/badge/Threat%20Hunting-8E24AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+</p>
 
-###
+---
 
 <h2 align="center">📜 Certificaciones Relevantes 📜</h2>
 
@@ -54,7 +56,7 @@
   </table>
 </div>
 
-###
+---
 
 <h2 align="center">💻 Experiencia en SOC 💻</h2>
 
@@ -69,11 +71,12 @@ class SOCAnalyst:
             "Análisis forense digital",
             "Mitigación de vulnerabilidades",
             "Automatización con Python",
-            "Blue Team & Red Team"
+            "Blue Team & Red Team collaboration"
         ]
         self.herramientas = [
             "Nmap", "Metasploit", "Wireshark", 
-            "Burp Suite", "Nessus", "Kali Linux"
+            "Burp Suite", "Nessus", "Kali Linux",
+            "Elastic Stack", "Suricata", "Sigma Rules"
         ]
     
     def defender(self):
@@ -83,6 +86,7 @@ class SOCAnalyst:
             contener_incidentes()
             remediar_vulnerabilidades()
             actualizar_defensas()
+            documentar_eventos()
 
 if __name__ == "__main__":
     analista = SOCAnalyst()
