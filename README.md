@@ -10,7 +10,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AF736&center=true&width=650&lines=Protegiendo+el+ciberespacio+desde+2023;22+certificaciones+en+ciberseguridad+⚠️;CISSP+%7C+CEH+%7C+Security%2B+%7C+Blue+Team;Analizando+threats+y+construyendo+firewalls" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=36BCF7&center=true&width=600&lines=SOC+Analyst+Sr+@+Apex+America;22+certificaciones+%F0%9F%94%90;CISSP+%7C+Security%2B+%7C+CEH+%7C+Blue+Team" />
 </div>
 
 <hr>
